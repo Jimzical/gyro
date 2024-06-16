@@ -1,16 +1,10 @@
-# gyro
+# Gyro
 
-A new Flutter project.
+A new Flutter project. The goal is to get information from the gyroscope and send it to a custom game website using websockets.
+> DROPPED, now done directly thorugh the browser in the https://github.com/Jimzical/JyroCity repo
 
-## Getting Started
+# Current Progress
+- Basic phone gyroscope data accessed and displayed
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Future Plan
+- Create websockets to connect to a website
